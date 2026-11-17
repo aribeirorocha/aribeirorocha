@@ -1,4 +1,4 @@
-<p align="center"><img src="feup.png" alt="FEUP" width="420"/></p>
+<p align="center"><img src="feup-logo.png" alt="FEUP" width="420"/></p>
 
 # Olá, sou o André Rocha 👋
 
