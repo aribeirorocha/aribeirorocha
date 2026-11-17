@@ -28,6 +28,8 @@
 A rhythm game written from scratch in **C on Minix 3**, with **custom drivers** for the graphics card, keyboard, mouse, timer, RTC and serial port (UART). It is fully interrupt-driven and has dynamic beatmaps and a persistent leaderboard.
 *My role:* main game loop and device integration, video driver, UI and visual design.
 
+<p align="center"><img src="https://github.com/aribeirorocha/guitar-hero-minix/raw/main/docs/screenshot-menu.png" width="420" alt="FEUPHERO main menu"/></p>
+
 ### [Ride4Free](https://github.com/aribeirorocha/ride4free) · Software Engineering · **19.8/20**
 A **carpooling mobile app** (Flutter) with a **FastAPI + SQLite** backend, map-based ride offers, a points system and chat. Built with **Scrum** over 4 sprints, with unit and integration tests and **GitHub Actions CI**.
 *My role:* most active contributor; app screens and API integration, backend endpoints and the test suite.
