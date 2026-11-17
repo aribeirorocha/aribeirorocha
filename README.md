@@ -11,7 +11,7 @@ Por ordem cronológica, do primeiro projeto ao mais recente.
 
 | Quando | Projeto | UC | Descrição | Tecnologias | Nota |
 |---|---|---|---|---|---|
-| 1.º ano · mai 2025 | [Editor de Imagens](https://github.com/aribeirorocha/Projeto-programacao) | Programação | Editor de imagens PNG por linha de comandos (filtros, espelhos, rotações, escala de cinzentos) com scripts de comandos. | C++ (POO) | **18.0** |
+| 1.º ano · mai 2025 | [Editor de Imagens](https://github.com/aribeirorocha/Projeto-programacao) | Programação | Editor de imagens PNG por linha de comandos (filtros de cor, espelhos, deslocamentos, sobreposição de imagens) com scripts de comandos. | C++ (POO) | **18.0** |
 | 2.º ano · nov–dez 2025 | [PAC-MAN](https://github.com/aribeirorocha/ldts-projeto-jogo-java) | Laboratório de Desenho e Teste de Software | Jogo PAC-MAN em modo texto, com vários níveis e padrões de desenho (State, Command, Factory, Builder, Observer) e testes unitários. | Java, Gradle, Lanterna, JUnit | **18.0** |
 | 2.º ano · fev–jun 2026 | [Guitar Hero (Minix)](https://github.com/aribeirorocha/lcom-projeto-minix) | Laboratório de Computadores | Jogo ao estilo Guitar Hero em Minix, com drivers próprios para placa gráfica, teclado, rato, timer, RTC e UART (áudio externo), beatmaps e leaderboard. | C, Minix, programação de baixo nível | **20.0** |
 | 2.º ano · fev–jun 2026 | [Ride4Free](https://github.com/aribeirorocha/es-projeto-app-flutter) | Engenharia de Software | App móvel de partilha de boleias com perfis verificados, avaliações e sistema de pontos. Desenvolvida em Scrum (4 sprints), com testes e CI. | Dart, Flutter, Firebase, GitHub Actions | **19.8** |
