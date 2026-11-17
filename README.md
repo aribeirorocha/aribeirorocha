@@ -1,47 +1,47 @@
 <p align="center"><img src="uporto-feup.png" alt="FEUP – University of Porto" width="420"/></p>
 
-<h1 align="center">Hi, I'm André Rocha 👋</h1>
+<h1 align="center">Hi, I'm André Rocha </h1>
 
 <p align="center">
-  <b>3rd-year BSc student in Informatics and Computing Engineering (L.EIC) at FEUP, University of Porto</b><br/>
-  I like building things end to end, from hardware drivers in C to mobile apps and web platforms.
+ <b>3rd-year BSc student in Informatics and Computing Engineering (L.EIC) at FEUP, University of Porto</b><br/>
+ I like building things end to end, from hardware drivers in C to mobile apps and web platforms.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andr%C3%A9-rocha-1b99863a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:aribeirorocha2006@gmail.com"><img src="https://img.shields.io/badge/Email-aribeirorocha2006%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Location-Porto%2C%20Portugal-555" alt="Porto, Portugal"/>
+ <a href="https://www.linkedin.com/in/andr%C3%A9-rocha-1b99863a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+ <a href="mailto:aribeirorocha2006@gmail.com"><img src="https://img.shields.io/badge/Email-aribeirorocha2006%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
+ <img src="https://img.shields.io/badge/Location-Porto%2C%20Portugal-555" alt="Porto, Portugal"/>
 </p>
 
-> 🔎 **Looking for a curricular internship (Feb–Jun 2027)**: about 8 h/week on Fridays, as part of FEUP's capstone course (*Projeto Integrador*).
+> **Looking for a curricular internship (Feb–Jun 2027)**: about 8 h/week on Fridays, as part of FEUP's capstone course (*Projeto Integrador*).
 
-### 📊 At a glance
+### At a glance
 - **7 academic projects** shown below · **average project grade 18.8/20** · top grade **20/20**
 - Hands-on experience with **systems programming, mobile, web, algorithms and software engineering**
 - Used to teamwork, Git workflows, **Scrum**, **automated testing** and **CI**
 
 ---
 
-## ⭐ Featured projects
+## Featured projects
 
-### 🎸 [Guitar Hero for Minix](https://github.com/aribeirorocha/guitar-hero-minix) · Computer Lab · **20/20**
+### [Guitar Hero for Minix](https://github.com/aribeirorocha/guitar-hero-minix) · Computer Lab · **20/20**
 A rhythm game written from scratch in **C on Minix 3**, with **custom drivers** for the graphics card, keyboard, mouse, timer, RTC and serial port (UART). It is fully interrupt-driven and has dynamic beatmaps and a persistent leaderboard.
 *My role:* main game loop and device integration, video driver, UI and visual design.
 
-### 🚗 [Ride4Free](https://github.com/aribeirorocha/ride4free) · Software Engineering · **19.8/20**
+### [Ride4Free](https://github.com/aribeirorocha/ride4free) · Software Engineering · **19.8/20**
 A **carpooling mobile app** (Flutter) with a **FastAPI + SQLite** backend, map-based ride offers, a points system and chat. Built with **Scrum** over 4 sprints, with unit and integration tests and **GitHub Actions CI**.
 *My role:* most active contributor; app screens and API integration, backend endpoints and the test suite.
 
 <p align="center"><img src="https://github.com/aribeirorocha/ride4free/raw/main/Design/sprint2.2.png" width="220" alt="Ride4Free screenshot"/></p>
 
-### 👾 [PAC-MAN in Java](https://github.com/aribeirorocha/pacman-java) · Software Design & Testing · **18/20**
+### [PAC-MAN in Java](https://github.com/aribeirorocha/pacman-java) · Software Design & Testing · **18/20**
 Built around **MVC** and design patterns (State, Builder/Factory, Adapter, Command, Observer, Game Loop), and tested with **JUnit, Mockito and PITest mutation testing**.
 
 <p align="center"><img src="https://github.com/aribeirorocha/pacman-java/raw/main/Docs/IMG/Videos/Level1.gif" width="360" alt="PAC-MAN gameplay"/></p>
 
 ---
 
-## 📂 All projects (chronological)
+## All projects (chronological)
 
 | When | Project | Course | Highlights | Grade |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ Built around **MVC** and design patterns (State, Builder/Factory, Adapter, Comma
 
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 
 **Languages**<br/>
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white)
