@@ -1,13 +1,14 @@
 <p align="center"><img src="uporto-feup.png" alt="FEUP" width="420"/></p>
 
-# Olá, sou o André Rocha 👋
+# Olá, sou o André Rocha
 
 Estudante do 3.º ano da **Licenciatura em Engenharia Informática e Computação (L.EIC)** na **FEUP – Universidade do Porto**.
 
-🔧 **Tecnologias:** C · C++ · Java · Dart/Flutter · PHP · SQL/SQLite · HTML/CSS/JavaScript · Git · CMake · Gradle
-📫 **Contacto:** aribeirorocha2006@gmail.com
+**Tecnologias:** C · C++ · Java · Dart/Flutter · PHP · SQL/SQLite · HTML/CSS/JavaScript · Git · CMake · Gradle
 
-## 📂 Projetos
+**Contacto:** aribeirorocha2006@gmail.com
+
+## Projetos
 
 Por ordem cronológica, do primeiro projeto ao mais recente.
 
