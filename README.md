@@ -3,6 +3,7 @@
 Estudante do 3.º ano da **Licenciatura em Engenharia Informática e Computação (L.EIC)** na **FEUP – Universidade do Porto**.
 
  **Tecnologias:** C++ · Java · Dart/Flutter · PHP · SQL/SQLite · HTML/CSS/JavaScript · Git · CMake · Gradle
+ 
  **Contacto:** aribeirorocha2006@gmail.com
 
 ##  Projetos
