@@ -1,15 +1,17 @@
-# Olá, sou o André Rocha 
+<p align="center"><img src="feup.png" alt="FEUP" width="420"/></p>
+
+# Olá, sou o André Rocha 👋
 
 Estudante do 3.º ano da **Licenciatura em Engenharia Informática e Computação (L.EIC)** na **FEUP – Universidade do Porto**.
 
-**Tecnologias:** C · C++ · Java · Dart/Flutter · PHP · SQL/SQLite · HTML/CSS/JavaScript · Git · CMake · Gradle
-**Contacto:** aribeirorocha2006@gmail.com
+🔧 **Tecnologias:** C · C++ · Java · Dart/Flutter · PHP · SQL/SQLite · HTML/CSS/JavaScript · Git · CMake · Gradle
+📫 **Contacto:** aribeirorocha2006@gmail.com
 
-## Projetos
+## 📂 Projetos
 
 Por ordem cronológica, do primeiro projeto ao mais recente.
 
-| Data | Projeto | UC | Descrição | Tecnologias | Nota |
+| Quando | Projeto | UC | Descrição | Tecnologias | Nota |
 |---|---|---|---|---|---|
 | 1.º ano · mai 2025 | [Editor de Imagens](https://github.com/aribeirorocha/Projeto-programacao) | Programação | Editor de imagens PNG por linha de comandos (filtros de cor, espelhos, deslocamentos, sobreposição de imagens) com scripts de comandos. | C++ (POO) | **18.0** |
 | 2.º ano · nov–dez 2025 | [PAC-MAN](https://github.com/aribeirorocha/ldts-projeto-jogo-java) | Laboratório de Desenho e Teste de Software | Jogo PAC-MAN em modo texto, com vários níveis e padrões de desenho (State, Command, Factory, Builder, Observer) e testes unitários. | Java, Gradle, Lanterna, JUnit | **18.0** |
